@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **rashi174/rashi174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<hi align="center">Hi there, I am Rashi Bansal 👋</h1>
+<h1 align="center">I am Rashi Bansal</h1>
 
 - 💬 Ask me about <strong>Python, C/C++, Data structures & Algorithms and Problem-Solving </strong>
 - 🌱 I’m currently learning <strong> Java </strong>
