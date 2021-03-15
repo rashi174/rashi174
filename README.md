@@ -39,4 +39,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/rashibansal17/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashi174&label=Profile%20views&color=129e00&style=plastic" alt="rashi174" /> </p>
 
