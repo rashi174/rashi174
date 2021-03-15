@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi174&show_icons=true&locale=en&layout=compact" alt="rashi174" /></p>
 
-<p align="center">
+<!-- To add linkedin logo <p align="center">
   <a href="https://www.linkedin.com/in/rashibansal17/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 
