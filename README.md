@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rashi174&show_icons=true&theme=gotham" alt="rashi174" />
 
-<p align="left">
-  <a <img src="https://github.com/rashi174/rashi174/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=rashi174&show_icons=true" alt="rashi174">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi174&show_icons=true&locale=en&layout=compact" alt="rashi174" /></p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rashibansal17/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;
