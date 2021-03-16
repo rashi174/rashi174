@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">I am Rashi Bansal</h1>
+<h1 align="center">I am Rashi Bansal 👩‍💻</h1>
 
 - 💬 Ask me about <strong>Python, C/C++, Data structures & Algorithms and Problem-Solving </strong>
 - 🌱 I’m currently learning <strong> Java </strong>
