@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">I am Rashi Bansal 👩‍💻</h1>
 
-- 💬 Ask me about <strong>Python, C/C++, Data structures & Algorithms and Problem-Solving </strong>
+- 💬 Ask me about <strong>Python, C/C++, Machine Learning, Data structures & Algorithms and Problem-Solving </strong>
 - 🌱 I’m currently learning <strong> Low Level Design, Java </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rashibansal17/" target="_blank">Rashi Bansal</a>
 - ⚡ Fun fact: I like to code💻, cook and eat.
